@@ -18,7 +18,7 @@
     "deploy": "wrangler deploy --minify"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20241224.0",
+    "@cloudflare/workers-types": "^4.20250224.0",
     "prettier": "^3.4.2",
     "wrangler": "^3.99.0"
   },
